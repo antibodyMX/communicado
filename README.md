@@ -36,7 +36,5 @@ Contacts
 
 The current maintainers of the list are:
 
-Martin A. Brooks <martin@antibodyMX.net>
-Rob Kendrick <rjek@rjek.com>
-
-
+* Martin A. Brooks <martin@antibodyMX.net>
+* Rob Kendrick <rjek@rjek.com>
