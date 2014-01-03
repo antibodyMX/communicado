@@ -11,12 +11,13 @@ during the week) and can be downloaded from the github repository here:
 
 https://github.com/antibodyMX/communicado
 
-The lists are free to use for personal and commercial purposes, however you do
-so entirely at your own risk. Please follow the twitter account @Excommunicado
-for updates and general news.
+The lists and DNSBL are free and open access for personal use.  Commercial or
+corporate users are welcome to mirror the domain list, but please run your own
+local DNSBL.  Doing so is trivial, see the example below.
 
-We offer both a text file of domains you can use, and a DNS real-time black
-hole.
+Needless to say, in either case, you use this data entirely AT YOUR OWN RISK.
+
+Please follow the twitter account @Excommunicado for updates and general news.
 
 
 Using the lists
