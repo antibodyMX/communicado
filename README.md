@@ -18,19 +18,56 @@ for updates and general news.
 We offer both a text file of domains you can use, and a DNS real-time black
 hole.
 
+
+Using the lists
+===============
+
+Exim
+====
+
 Should you use Exim, you can cron fetching the data file from the following:
     <https://raw.github.com/antibodyMX/communicado/master/hepworth.txt>
 
-And if you use Exim, the ACL is for flat-file:
+And if you use Exim, the ACLs for the flat-files are:
 
     deny message = Communicado Ltd., see http://blog.hinterlands.org/2013/10/unwanted-email-from-communicado-ltd/
          sender_domains = /etc/exim4/hepworth.txt
+
+    deny message = Communicado Ltd., see http://blog.hinterlands.org/2013/10/unwanted-email-from-communicado-ltd/
+         hosts = /etc/exim4/hepworth-networks.txt
 
 For the real-time DNS black hole, it is:
 
     deny message = Communicado Ltd., see http://blog.hinterlands.org/2013/10/unwanted-email-from-communicado-ltd/
          dnslists = excommunicado.co.uk/$sender_address_domain
 
+
+
+Postfix
+=======
+
+This cron script and postfix configuration snippet has been contributed by
+Twitter follower - thankyou.
+
+------------>8------------
+#!/bin/bash
+
+cd ~/
+rm -rf ~/communicado
+git clone https://github.com/antibodyMX/communicado
+perl -pi -e 's/$/ REJECT/' communicado/hepworth.txt
+mv communicado/hepworth.txt /etc/postfix/communicado
+/usr/sbin/postmap /etc/postfix/communicado
+------------8<------------
+
+Once set up, add the following line to your postfix configuration.
+
+    check_sender_access hash:/etc/postfix/communicado
+
+
+
+Setting up your own RBL
+=======================
 
 If you're running more than one mail server, you might want to run your own
 local RBL instance using rbldnsd.  If you're running Debian you can install
