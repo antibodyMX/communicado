@@ -64,25 +64,25 @@ Once set up, add the following line to your postfix configuration.
 
 
 
-Setting up your own RBL
-=======================
+Setting up your own DNSBL
+=========================
 
 If you're running more than one mail server, you might want to run your own
-local RBL instance using rbldnsd.  If you're running Debian you can install
+local DNSBL instance using rbldnsd.  If you're running Debian you can install
 this with:
 
     sudo apt-get install rbldnsd
 
 You then need to edit /etc/default/rbldnsd and create an options line such as:
 
-    RBLDNSD="- -b 192.168.0.1/53 -b -t 60 -A -r/var/lib/rbldns rbl.local:dnset:hepworth.txt"
+    RBLDNSD="- -b 192.168.0.1/53 -b -t 60 -A -r/var/lib/rbldns dnsbl.local:dnset:hepworth.txt"
 
-You'll need to create a fake zone for "rbl.local" containing NS records that
-point to your RBL server.  At that point you would then adjust the above RBL
-example to be:
+You'll need to create a fake zone for "dnsbl.local" containing NS records that
+point to your DNSBL server.  At that point you would then adjust the above
+DNSBL example to be:
 
     deny message = Communicado Ltd., see http://blog.hinterlands.org/2013/10/unwanted-email-from-communicado-ltd/
-         dnslists = rbl.local/$sender_address_domain
+         dnslists = dnsbl.local/$sender_address_domain
 
 
 Contacts
@@ -104,6 +104,6 @@ it.  Our preference for notifications is:
 * To @Excommunicado on twitter.
 * Email to the above addresses.
 
-Access to the lists will always be open and free.  The RBL will be kept open
+Access to the lists will always be open and free.  The DNSBL will be kept open
 access and free for as long as possible.  Bitcoin contributions to
 1F9Y1Gd3Pmmchxa7uGFd3zBQY9zVuX78Jd will help keep it online. Thankyou.
