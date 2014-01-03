@@ -94,3 +94,18 @@ The current maintainers of the list are:
 
 * Martin A. Brooks <martin@antibodyMX.net>
 * Rob Kendrick <rjek@rjek.com>
+
+
+Contributing
+============
+
+If you spot a Communicado domain that isn't on the list, please tell us about
+it.  Our preference for notifications is:
+
+* Pull request.
+* To @Excommunicado on twitter.
+* Email to the above addresses.
+
+Access to the lists will always be open and free.  The RBL will be kept open
+access and free for as long as possible.  Bitcoin contributions to
+1F9Y1Gd3Pmmchxa7uGFd3zBQY9zVuX78Jd will help keep it online. Thankyou.
