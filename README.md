@@ -31,6 +31,25 @@ For the real-time DNS black hole, it is:
     deny message = Communicado Ltd., see http://blog.hinterlands.org/2013/10/unwanted-email-from-communicado-ltd/
          dnslists = excommunicado.co.uk/$sender_address_domain
 
+
+If you're running more than one mail server, you might want to run your own
+local RBL instance using rbldnsd.  If you're running Debian you can install
+this with:
+
+    sudo apt-get install rbldnsd
+
+You then need to edit /etc/default/rbldnsd and create an options line such as:
+
+    RBLDNSD="- -b 192.168.0.1/53 -b -t 60 -A -r/var/lib/rbldns rbl.local:dnset:hepworth.txt"
+
+You'll need to create a fake zone for "rbl.local" containing NS records that
+point to your RBL server.  At that point you would then adjust the above RBL
+example to be:
+
+    deny message = Communicado Ltd., see http://blog.hinterlands.org/2013/10/unwanted-email-from-communicado-ltd/
+         dnslists = rbl.local/$sender_address_domain
+
+
 Contacts
 ========
 
