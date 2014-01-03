@@ -49,16 +49,14 @@ Postfix
 This cron script and postfix configuration snippet has been contributed by
 Twitter follower - thankyou.
 
------------->8------------
-#!/bin/bash
-
-cd ~/
-rm -rf ~/communicado
-git clone https://github.com/antibodyMX/communicado
-perl -pi -e 's/$/ REJECT/' communicado/hepworth.txt
-mv communicado/hepworth.txt /etc/postfix/communicado
-/usr/sbin/postmap /etc/postfix/communicado
-------------8<------------
+    #!/bin/bash
+    
+    cd ~/
+    rm -rf ~/communicado
+    git clone https://github.com/antibodyMX/communicado
+    perl -pi -e 's/$/ REJECT/' communicado/hepworth.txt
+    mv communicado/hepworth.txt /etc/postfix/communicado
+    /usr/sbin/postmap /etc/postfix/communicado
 
 Once set up, add the following line to your postfix configuration.
 
