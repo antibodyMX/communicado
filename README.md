@@ -6,7 +6,7 @@ large amount of unsolicited commercial email.  We are collecting a list of all
 the domains and networks they send from so that mail administrators can easily
 block their emissions.
 
-The lists are updated as frequently as possibly (usually several times per day
+The lists are updated as frequently as possible (usually several times per day
 during the week) and can be downloaded from the github repository here:
 
 https://github.com/antibodyMX/communicado
