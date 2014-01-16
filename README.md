@@ -47,22 +47,9 @@ For the real-time DNS black hole, it is:
 Postfix
 =======
 
-This cron script and postfix configuration snippet has been contributed by
-Twitter follower - thankyou.
+Add the following line at an appropriate place in your configuration file:
 
-    #!/bin/bash
-    
-    cd ~/
-    rm -rf ~/communicado
-    git clone https://github.com/antibodyMX/communicado
-    perl -pi -e 's/$/ REJECT/' communicado/hepworth.txt
-    mv communicado/hepworth.txt /etc/postfix/communicado
-    /usr/sbin/postmap /etc/postfix/communicado
-
-Once set up, add the following line to your postfix configuration.
-
-    check_sender_access hash:/etc/postfix/communicado
-
+    smtpd_sender_restrictions =  reject_rhsbl_sender excommunicado.co.uk
 
 
 Setting up your own DNSBL
