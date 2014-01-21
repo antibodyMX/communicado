@@ -94,4 +94,4 @@ it.  Our preference for notifications is:
 
 Access to the lists will always be open and free.  The DNSBL will be kept open
 access and free for as long as possible.  Bitcoin contributions to
-1F9Y1Gd3Pmmchxa7uGFd3zBQY9zVuX78Jd will help keep it online. Thankyou.
+1Mi3yt4ZDuYMjAZkHYqVMNg27TsKUs1QNP will help keep it online. Thankyou.
