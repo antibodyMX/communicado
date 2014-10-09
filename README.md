@@ -81,6 +81,12 @@ The current maintainers of the list are:
 * Martin A. Brooks <martin@antibodyMX.net>
 * Rob Kendrick <rjek@rjek.com>
 
+Thanks
+======
+
+[Bytemark Hosting](http://www.bytemark.co.uk/) kindly provides infrastructure
+for one of the three nameservers that serve the DNS black hole, using their
+[BigV](http://www.bigv.io/) virtualisation platform.
 
 Contributing
 ============
