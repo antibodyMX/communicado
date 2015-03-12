@@ -4739,6 +4739,7 @@ mailer.baffirma.com
 mailer.boxfilm.net
 mailer.dagetsa.com
 mailer.henfick.com
+mailer.justrecommendit.com
 mailer.majesticrp.com
 mailer.sanjaro.com
 mailer.themeparksv.com
