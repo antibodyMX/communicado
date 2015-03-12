@@ -4737,6 +4737,8 @@ mailer.baffirma.com
 mailer.boxfilm.net
 mailer.henfick.com
 mailer.majesticrp.com
+mailer.sanjaro.com
+mailer.themeparksv.com
 mailerspace.com
 maimbungas.co.uk
 mainitlana.co.uk
