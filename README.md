@@ -63,7 +63,9 @@ this with:
 
 You then need to edit /etc/default/rbldnsd and create an options line such as:
 
-    RBLDNSD="- -b 192.168.0.1/53 -b -t 60 -A -r/var/lib/rbldns dnsbl.local:dnset:hepworth.txt"
+    RBLDNSD="- -b 192.168.0.1/53 -b -t 60 -A -r/var/lib/rbldns dnsbl.local:dnset:hepworth.db"
+
+The hepworth.db file can be generated from hepworth.txt using the included rbldnsdise.sh script.
 
 You'll need to create a fake zone for "dnsbl.local" containing NS records that
 point to your DNSBL server.  At that point you would then adjust the above
