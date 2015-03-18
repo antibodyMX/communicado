@@ -2027,6 +2027,7 @@ dumangasla.co.uk
 dumanjugre.co.uk
 dumarantas.co.uk
 dumaraonia.co.uk
+duminal.com
 dumingagle.co.uk
 dupaxasler.co.uk
 durandigao.co.uk
@@ -6789,6 +6790,7 @@ mailer.dumangasla.co.uk
 mailer.dumanjugre.co.uk
 mailer.dumarantas.co.uk
 mailer.dumaraonia.co.uk
+mailer.duminal.com
 mailer.dumingagle.co.uk
 mailer.dupaxasler.co.uk
 mailer.durandigao.co.uk
@@ -10220,6 +10222,7 @@ mailer.nesscom.net
 mailer.neto-craft.net
 mailer.netotradeoptions.com
 mailer.netutopiaforums.com
+mailer.netvergonhas.com
 mailer.nevanovem.co.uk
 mailer.nevanovom.co.uk
 mailer.newbodytoday.com
@@ -14015,6 +14018,7 @@ nesscom.net
 neto-craft.net
 netotradeoptions.com
 netutopiaforums.com
+netvergonhas.com
 nevanovem.co.uk
 nevanovom.co.uk
 newbodytoday.com
