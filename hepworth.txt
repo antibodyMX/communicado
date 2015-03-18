@@ -346,6 +346,7 @@ anacartesa.co.uk
 anaccountofsorts.com
 anahawanda.co.uk
 anaoformia.co.uk
+ancipal.com
 andaluste.co.uk
 andongsira.co.uk
 andrestes.co.uk
@@ -5108,6 +5109,7 @@ mailer.anacartesa.co.uk
 mailer.anaccountofsorts.com
 mailer.anahawanda.co.uk
 mailer.anaoformia.co.uk
+mailer.ancipal.com
 mailer.andaluste.co.uk
 mailer.andongsira.co.uk
 mailer.andrestes.co.uk
