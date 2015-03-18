@@ -1958,6 +1958,7 @@ dirlasinqui.co.uk
 dirlasinquo.co.uk
 discusshannibal.com
 disruptedltd.com
+dissouri.com
 distirwogs.com
 divilaca.co.uk
 dixiecrow.org
@@ -6719,6 +6720,7 @@ mailer.dirlasinqui.co.uk
 mailer.dirlasinquo.co.uk
 mailer.discusshannibal.com
 mailer.disruptedltd.com
+mailer.dissouri.com
 mailer.distirwogs.com
 mailer.divilaca.co.uk
 mailer.dixiecrow.org
