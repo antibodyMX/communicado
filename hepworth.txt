@@ -10241,6 +10241,7 @@ mailer.newsderp.com
 mailer.newsjournal.co
 mailer.newsquack.com
 mailer.newsurprises.net
+mailer.newtechnologydevices.com
 mailer.newtonmc.com
 mailer.nextstepalliance.com
 mailer.nfcring.org
@@ -14041,6 +14042,7 @@ newsderp.com
 newsjournal.co
 newsquack.com
 newsurprises.net
+newtechnologydevices.com
 newtonmc.com
 nextstepalliance.com
 nfcring.org
