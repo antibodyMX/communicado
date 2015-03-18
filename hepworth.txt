@@ -10936,6 +10936,7 @@ mailer.preppedcapital.com
 mailer.presort.me
 mailer.preventivimutui.org
 mailer.primalemporium.com
+mailer.primensity.com
 mailer.primeratetoday.org
 mailer.printdddforum.com
 mailer.printingindustry.net
@@ -11591,6 +11592,7 @@ mailer.socialmorphose.com
 mailer.sociedadoffshore.net
 mailer.societten.com
 mailer.society-affairs.net
+mailer.sociophon.com
 mailer.socivate.com
 mailer.soclforbusiness.com
 mailer.soclmarketing.net
@@ -11768,6 +11770,7 @@ mailer.tamiledam.com
 mailer.tanexlog.com
 mailer.tanyastinkerings.com
 mailer.taobaoadvisor.com
+mailer.taobaoaffiliate.com
 mailer.taobaoaffiliates.com
 mailer.taobaoagentlist.com
 mailer.taobaoagents.org
@@ -14732,6 +14735,7 @@ preppedcapital.com
 presort.me
 preventivimutui.org
 primalemporium.com
+primensity.com
 primeratetoday.org
 printdddforum.com
 printingindustry.net
@@ -15387,6 +15391,7 @@ socialmorphose.com
 sociedadoffshore.net
 societten.com
 society-affairs.net
+sociophon.com
 socivate.com
 soclforbusiness.com
 soclmarketing.net
@@ -15564,6 +15569,7 @@ tamiledam.com
 tanexlog.com
 tanyastinkerings.com
 taobaoadvisor.com
+taobaoaffiliate.com
 taobaoaffiliates.com
 taobaoagentlist.com
 taobaoagents.org
