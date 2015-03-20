@@ -4085,6 +4085,7 @@ kalibopota.co.uk
 kalilangal.co.uk
 kalingalau.co.uk
 kalingaley.co.uk
+kalisangka.com
 kalobreime.co.uk
 kalodrauli.co.uk
 kalohuie.co.uk
@@ -8854,6 +8855,7 @@ mailer.kalibopota.co.uk
 mailer.kalilangal.co.uk
 mailer.kalingalau.co.uk
 mailer.kalingaley.co.uk
+mailer.kalisangka.com
 mailer.kalobreime.co.uk
 mailer.kalodrauli.co.uk
 mailer.kalohuie.co.uk
