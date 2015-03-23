@@ -10965,6 +10965,7 @@ mailer.primensity.com
 mailer.primeratetoday.org
 mailer.printdddforum.com
 mailer.printingindustry.net
+mailer.prisonescape.net
 mailer.privacyforums.net
 mailer.prizedmetals.com
 mailer.problematic.co
@@ -12607,6 +12608,7 @@ mailer.vurvasge.co.uk
 mailer.vurvleste.co.uk
 mailer.vuveyod.com
 mailer.vuzu.org
+mailer.wabitea.com
 mailer.wakeuprecipes.com
 mailer.walipalorcse.co.uk
 mailer.walipanorcse.co.uk
@@ -14783,6 +14785,7 @@ primensity.com
 primeratetoday.org
 printdddforum.com
 printingindustry.net
+prisonescape.net
 privacyforums.net
 prizedmetals.com
 problematic.co
@@ -16425,6 +16428,7 @@ vurvasge.co.uk
 vurvleste.co.uk
 vuveyod.com
 vuzu.org
+wabitea.com
 wakeuprecipes.com
 walipalorcse.co.uk
 walipanorcse.co.uk
