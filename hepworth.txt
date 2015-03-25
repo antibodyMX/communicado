@@ -12832,6 +12832,7 @@ mailer.wowoff.com
 mailer.wowover.com
 mailer.wowowned.com
 mailer.wowsurge.com
+mailer.writinghelpers.org
 mailer.writingrealestate.com
 mailer.writtenpersuasion.com
 mailer.wsolegend.com
@@ -16655,6 +16656,7 @@ wowoff.com
 wowover.com
 wowowned.com
 wowsurge.com
+writinghelpers.org
 writingrealestate.com
 writtenpersuasion.com
 wsolegend.com
