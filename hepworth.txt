@@ -9895,6 +9895,7 @@ mailer.menzalve.co.uk
 mailer.mercedetia.co.uk
 mailer.meridanaso.co.uk
 mailer.meritair.com
+mailer.meritferret.com
 mailer.merlincorpservices.com
 mailer.mesaneura.co.uk
 mailer.mesaneure.co.uk
@@ -13719,6 +13720,7 @@ menzalve.co.uk
 mercedetia.co.uk
 meridanaso.co.uk
 meritair.com
+meritferret.com
 merlincorpservices.com
 mesaneura.co.uk
 mesaneure.co.uk
