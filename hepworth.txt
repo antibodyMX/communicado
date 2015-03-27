@@ -11908,6 +11908,7 @@ mailer.tenvatle.co.uk
 mailer.tenwalte.co.uk
 mailer.tenyalse.co.uk
 mailer.tenzalve.co.uk
+mailer.terapianatural.net
 mailer.termcounselor.com
 mailer.terrahorn.org
 mailer.terrao.net
@@ -15733,6 +15734,7 @@ tenvatle.co.uk
 tenwalte.co.uk
 tenyalse.co.uk
 tenzalve.co.uk
+terapianatural.net
 termcounselor.com
 terrahorn.org
 terrao.net
