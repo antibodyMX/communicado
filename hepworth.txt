@@ -12598,6 +12598,7 @@ mailer.vividpersuasion.com
 mailer.vj52.com
 mailer.vlmp3.com
 mailer.vodkabrands.org
+mailer.voforums.com
 mailer.voltg.com
 mailer.voneventsplanning.com
 mailer.votalhost.org
@@ -16427,6 +16428,7 @@ vividpersuasion.com
 vj52.com
 vlmp3.com
 vodkabrands.org
+voforums.com
 voltg.com
 voneventsplanning.com
 votalhost.org
