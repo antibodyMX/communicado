@@ -4205,6 +4205,7 @@ kilioholde.co.uk
 kingrotation.com
 kinogitanu.co.uk
 kiosknine.com
+kipptapp.com
 kisaclick.com
 kitaotaose.co.uk
 kitcharaos.co.uk
@@ -8990,6 +8991,7 @@ mailer.kilioholde.co.uk
 mailer.kingrotation.com
 mailer.kinogitanu.co.uk
 mailer.kiosknine.com
+mailer.kipptapp.com
 mailer.kisaclick.com
 mailer.kitaotaose.co.uk
 mailer.kitcharaos.co.uk
