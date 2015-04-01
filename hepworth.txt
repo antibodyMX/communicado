@@ -11836,6 +11836,7 @@ mailer.taobaoforums.com
 mailer.taobaoinenglish.net
 mailer.taobaosite.com
 mailer.taobaostock.com
+mailer.taobaovideos.com
 mailer.taogether.com
 mailer.taovideos.com
 mailer.taskmatic.net
@@ -15680,6 +15681,7 @@ taobaoforums.com
 taobaoinenglish.net
 taobaosite.com
 taobaostock.com
+taobaovideos.com
 taogether.com
 taovideos.com
 taskmatic.net
