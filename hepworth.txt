@@ -1646,6 +1646,7 @@ culineuryo.co.uk
 culineurys.co.uk
 culineuryt.co.uk
 culiontes.co.uk
+cupburrd.com
 cupiu.com
 curiousdomains.com
 curiousposts.com
@@ -6434,6 +6435,7 @@ mailer.culineuryo.co.uk
 mailer.culineurys.co.uk
 mailer.culineuryt.co.uk
 mailer.culiontes.co.uk
+mailer.cupburrd.com
 mailer.cupiu.com
 mailer.curiousdomains.com
 mailer.curiousposts.com
