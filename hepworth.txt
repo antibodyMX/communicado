@@ -11674,6 +11674,7 @@ mailer.spacelxl.com
 mailer.spanishcoin.org
 mailer.sparkzila.com
 mailer.specbar.net
+mailer.specthehalls.com
 mailer.spgservers.net
 mailer.splashquick.com
 mailer.spootlight.com
@@ -15517,6 +15518,7 @@ spacelxl.com
 spanishcoin.org
 sparkzila.com
 specbar.net
+specthehalls.com
 spgservers.net
 splashquick.com
 spootlight.com
