@@ -2147,6 +2147,7 @@ echagueria.co.uk
 echosyndication.com
 ecijanueva.co.uk
 ecodam.com
+ecoscorp.com
 ecouponslive.com
 ecovernitro.com
 ectabreime.co.uk
@@ -6936,6 +6937,7 @@ mailer.echagueria.co.uk
 mailer.echosyndication.com
 mailer.ecijanueva.co.uk
 mailer.ecodam.com
+mailer.ecoscorp.com
 mailer.ecouponslive.com
 mailer.ecovernitro.com
 mailer.ectabreime.co.uk
