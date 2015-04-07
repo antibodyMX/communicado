@@ -10897,6 +10897,7 @@ mailer.php-school.net
 mailer.pianowork.net
 mailer.piattaformeforex.net
 mailer.pickledcukes.com
+mailer.piclur.com
 mailer.pidchas.com
 mailer.piibb.net
 mailer.piibb.org
@@ -14754,6 +14755,7 @@ php-school.net
 pianowork.net
 piattaformeforex.net
 pickledcukes.com
+piclur.com
 pidchas.com
 piibb.net
 piibb.org
