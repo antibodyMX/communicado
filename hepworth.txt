@@ -3760,6 +3760,7 @@ isulando.co.uk
 italiacoin.com
 italiadavicino.com
 itbayata.co.uk
+itechnopolis.com
 itogonis.co.uk
 itsashiny.com
 itsbizaar.com
@@ -8551,6 +8552,7 @@ mailer.isulando.co.uk
 mailer.italiacoin.com
 mailer.italiadavicino.com
 mailer.itbayata.co.uk
+mailer.itechnopolis.com
 mailer.itogonis.co.uk
 mailer.itsashiny.com
 mailer.itsbizaar.com
