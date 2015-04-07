@@ -2897,6 +2897,7 @@ getchirping.net
 getfreetvonline.net
 getyouraaron.com
 ghmai.com
+giantsurvival.com
 gigamarketplace.com
 gigaquitos.co.uk
 gigmotorla.co.uk
@@ -7687,6 +7688,7 @@ mailer.getchirping.net
 mailer.getfreetvonline.net
 mailer.getyouraaron.com
 mailer.ghmai.com
+mailer.giantsurvival.com
 mailer.gigamarketplace.com
 mailer.gigaquitos.co.uk
 mailer.gigmotorla.co.uk
