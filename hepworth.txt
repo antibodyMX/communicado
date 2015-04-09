@@ -11056,6 +11056,7 @@ mailer.pubadvertise.com
 mailer.publishhub.com
 mailer.pullf.com
 mailer.pulmermaroons.com
+mailer.punista.com
 mailer.purchanista.com
 mailer.purchasebtc.net
 mailer.purchasebtc.org
@@ -14917,6 +14918,7 @@ pubadvertise.com
 publishhub.com
 pullf.com
 pulmermaroons.com
+punista.com
 purchanista.com
 purchasebtc.net
 purchasebtc.org
