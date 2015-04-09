@@ -471,6 +471,7 @@ aspraholde.co.uk
 asrobb.com
 assistantagents.com
 assistantcontrol.com
+assistantenvoy.com
 assistwizard.com
 assistyourtraining.com
 associateshand.com
@@ -1804,6 +1805,7 @@ dedcumods.co.uk
 dedcumody.co.uk
 degreelift.com
 deimpian.com
+dejesys.com
 delacres.co.uk
 delartes.co.uk
 delfinio.co.uk
@@ -5269,6 +5271,7 @@ mailer.aspraholde.co.uk
 mailer.asrobb.com
 mailer.assistantagents.com
 mailer.assistantcontrol.com
+mailer.assistantenvoy.com
 mailer.assistwizard.com
 mailer.assistyourtraining.com
 mailer.associateshand.com
@@ -6602,6 +6605,7 @@ mailer.dedcumods.co.uk
 mailer.dedcumody.co.uk
 mailer.degreelift.com
 mailer.deimpian.com
+mailer.dejesys.com
 mailer.delacres.co.uk
 mailer.delartes.co.uk
 mailer.delfinio.co.uk
@@ -12083,6 +12087,7 @@ mailer.totallybook.com
 mailer.totalmailing.co.uk
 mailer.totalmailsolutions.co.uk
 mailer.totalvincheck.com
+mailer.toveren.com
 mailer.toycarstrucks.com
 mailer.trackersgps.com
 mailer.trackingfix.com
@@ -15945,6 +15950,7 @@ totallybook.com
 totalmailing.co.uk
 totalmailsolutions.co.uk
 totalvincheck.com
+toveren.com
 toycarstrucks.com
 trackersgps.com
 trackingfix.com
