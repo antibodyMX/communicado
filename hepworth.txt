@@ -12706,6 +12706,7 @@ mailer.walipanorcse.co.uk
 mailer.waliprella.co.uk
 mailer.waliprelle.co.uk
 mailer.walkll.com
+mailer.walldc.com
 mailer.wallll.com
 mailer.wallofcrush.com
 mailer.wallstreetmine.com
@@ -16574,6 +16575,7 @@ walipanorcse.co.uk
 waliprella.co.uk
 waliprelle.co.uk
 walkll.com
+walldc.com
 wallll.com
 wallofcrush.com
 wallstreetmine.com
