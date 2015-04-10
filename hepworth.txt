@@ -12697,6 +12697,7 @@ mailer.vurvasce.co.uk
 mailer.vurvasge.co.uk
 mailer.vurvleste.co.uk
 mailer.vuveyod.com
+mailer.vuvucosbr.com
 mailer.vuzu.org
 mailer.wabitea.com
 mailer.wakeuprecipes.com
@@ -16564,6 +16565,7 @@ vurvasce.co.uk
 vurvasge.co.uk
 vurvleste.co.uk
 vuveyod.com
+vuvucosbr.com
 vuzu.org
 wabitea.com
 wakeuprecipes.com
