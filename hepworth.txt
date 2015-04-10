@@ -852,6 +852,7 @@ binalbagan.co.uk
 binalonan.co.uk
 binangonan.co.uk
 binanros.co.uk
+binaryarrow.com
 binarystep.net
 bindoyla.co.uk
 binedosaz.com
@@ -5655,6 +5656,7 @@ mailer.binalbagan.co.uk
 mailer.binalonan.co.uk
 mailer.binangonan.co.uk
 mailer.binanros.co.uk
+mailer.binaryarrow.com
 mailer.binarystep.net
 mailer.bindoyla.co.uk
 mailer.binedosaz.com
@@ -11948,6 +11950,7 @@ mailer.telecomtrio.com
 mailer.telegrant.com
 mailer.telemilt.com
 mailer.telephonieboutique.com
+mailer.telltaletea.com
 mailer.tempest-gaming.net
 mailer.templarro.com
 mailer.templatelayer.com
@@ -15812,6 +15815,7 @@ telecomtrio.com
 telegrant.com
 telemilt.com
 telephonieboutique.com
+telltaletea.com
 tempest-gaming.net
 templarro.com
 templatelayer.com
