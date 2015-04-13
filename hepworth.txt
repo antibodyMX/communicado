@@ -854,6 +854,7 @@ binangonan.co.uk
 binanros.co.uk
 binaryarrow.com
 binarystep.net
+bindeal.com
 bindoyla.co.uk
 binedosaz.com
 bingawan.co.uk
@@ -5662,6 +5663,7 @@ mailer.binangonan.co.uk
 mailer.binanros.co.uk
 mailer.binaryarrow.com
 mailer.binarystep.net
+mailer.bindeal.com
 mailer.bindoyla.co.uk
 mailer.binedosaz.com
 mailer.bingawan.co.uk
@@ -11923,6 +11925,7 @@ mailer.techguard.org
 mailer.techhotel.org
 mailer.techinv.net
 mailer.techkeyboard.com
+mailer.technikey.com
 mailer.technodemocracy.org
 mailer.technologyprice.com
 mailer.techpi.net
@@ -15795,6 +15798,7 @@ techguard.org
 techhotel.org
 techinv.net
 techkeyboard.com
+technikey.com
 technodemocracy.org
 technologyprice.com
 techpi.net
