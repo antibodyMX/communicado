@@ -10066,6 +10066,7 @@ mailer.mirrup.com
 mailer.misamisara.co.uk
 mailer.mispixels.net
 mailer.misrline.com
+mailer.mistercube.com
 mailer.misthotel.com
 mailer.mitchplusplus.com
 mailer.mitsclick.com
@@ -13939,6 +13940,7 @@ mirrup.com
 misamisara.co.uk
 mispixels.net
 misrline.com
+mistercube.com
 misthotel.com
 mitchplusplus.com
 mitsclick.com
