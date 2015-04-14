@@ -13303,6 +13303,7 @@ mailer.youtafsa.co.uk
 mailer.youtocap.co.uk
 mailer.youtowse.co.uk
 mailer.youtoxwe.co.uk
+mailer.youttu.com
 mailer.youtubesters.com
 mailer.yoybuy.org
 mailer.yoyoshimusic.com
@@ -17177,6 +17178,7 @@ youtafsa.co.uk
 youtocap.co.uk
 youtowse.co.uk
 youtoxwe.co.uk
+youttu.com
 youtubesters.com
 yoybuy.org
 yoyoshimusic.com
