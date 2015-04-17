@@ -10961,6 +10961,7 @@ mailer.plraudioclips.net
 mailer.pluginwebinar.com
 mailer.pluginwebinars.com
 mailer.pluslatin.com
+mailer.pmnr.net
 mailer.poenye.com
 mailer.pointdecontact.org
 mailer.pokertruth.net
@@ -14837,6 +14838,7 @@ plraudioclips.net
 pluginwebinar.com
 pluginwebinars.com
 pluslatin.com
+pmnr.net
 poenye.com
 pointdecontact.org
 pokertruth.net
