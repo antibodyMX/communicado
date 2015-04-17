@@ -12933,6 +12933,7 @@ mailer.woodspanner.com
 mailer.woodworkingblast.com
 mailer.woodworkingone.com
 mailer.woodworkingtrek.com
+mailer.wordtender.com
 mailer.workbenchtop.com
 mailer.worklate.net
 mailer.worldtradingpartners.co.uk
@@ -16811,6 +16812,7 @@ woodspanner.com
 woodworkingblast.com
 woodworkingone.com
 woodworkingtrek.com
+wordtender.com
 workbenchtop.com
 worklate.net
 worldtradingpartners.co.uk
