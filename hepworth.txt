@@ -11920,6 +11920,7 @@ mailer.taobroker.com
 mailer.taogether.com
 mailer.taomalls.com
 mailer.taovideos.com
+mailer.tappendent.com
 mailer.taskmatic.net
 mailer.tax-plan.org
 mailer.tax-planner.net
@@ -15802,6 +15803,7 @@ taobroker.com
 taogether.com
 taomalls.com
 taovideos.com
+tappendent.com
 taskmatic.net
 tax-plan.org
 tax-planner.net
