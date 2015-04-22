@@ -10948,6 +10948,7 @@ mailer.philrealtyseller.com
 mailer.phonethunder.com
 mailer.photogur.com
 mailer.photonshack.com
+mailer.photos-pictures.com
 mailer.photoseffects.org
 mailer.php-school.net
 mailer.pianowork.net
@@ -14831,6 +14832,7 @@ philrealtyseller.com
 phonethunder.com
 photogur.com
 photonshack.com
+photos-pictures.com
 photoseffects.org
 php-school.net
 pianowork.net
