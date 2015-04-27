@@ -13194,6 +13194,7 @@ mailer.xysapalorcse.co.uk
 mailer.xysaprella.co.uk
 mailer.xysaprelle.co.uk
 mailer.y211.com
+mailer.yachtcougar.com
 mailer.yachtsorknot.com
 mailer.yachtsorknots.com
 mailer.yantiar.com
@@ -17089,6 +17090,7 @@ xysapalorcse.co.uk
 xysaprella.co.uk
 xysaprelle.co.uk
 y211.com
+yachtcougar.com
 yachtsorknot.com
 yachtsorknots.com
 yantiar.com
