@@ -2592,6 +2592,7 @@ ffsreflect.com
 fgacebok.com
 fgmail.co
 fhear.com
+ficowhiz.com
 fieldii.net
 fielld.net
 fiendishlygaming.com
@@ -7419,6 +7420,7 @@ mailer.ffsreflect.com
 mailer.fgacebok.com
 mailer.fgmail.co
 mailer.fhear.com
+mailer.ficowhiz.com
 mailer.fieldii.net
 mailer.fielld.net
 mailer.fiendishlygaming.com
@@ -11545,6 +11547,7 @@ mailer.scottybot.com
 mailer.screencap.org
 mailer.scriptkitty.co
 mailer.sdvisalawyer.com
+mailer.sectorsatovi.com
 mailer.securermoney.com
 mailer.sedcamode.co.uk
 mailer.sedcamodra.co.uk
@@ -15435,6 +15438,7 @@ scottybot.com
 screencap.org
 scriptkitty.co
 sdvisalawyer.com
+sectorsatovi.com
 securermoney.com
 sedcamode.co.uk
 sedcamodra.co.uk
