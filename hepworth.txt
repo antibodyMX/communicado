@@ -11140,6 +11140,7 @@ mailer.purkot.net
 mailer.purkot.org
 mailer.purkut.com
 mailer.pushbuttonsoftware.net
+mailer.putonwax.com
 mailer.puzzlesbydan.com
 mailer.pvpslash.com
 mailer.pvpspartans.com
@@ -12114,6 +12115,7 @@ mailer.thetravelandculturegroup.com
 mailer.thetravelandculturetour.com
 mailer.thewriterary.com
 mailer.thewritinggenie.com
+mailer.theyachtking.com
 mailer.thinkcareers.net
 mailer.thinkemtcareers.com
 mailer.thinkselfdevelopment.com
@@ -15033,6 +15035,7 @@ purkot.net
 purkot.org
 purkut.com
 pushbuttonsoftware.net
+putonwax.com
 puzzlesbydan.com
 pvpslash.com
 pvpspartans.com
@@ -16007,6 +16010,7 @@ thetravelandculturegroup.com
 thetravelandculturetour.com
 thewriterary.com
 thewritinggenie.com
+theyachtking.com
 thinkcareers.net
 thinkemtcareers.com
 thinkselfdevelopment.com
