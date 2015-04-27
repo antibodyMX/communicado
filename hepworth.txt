@@ -13193,6 +13193,7 @@ mailer.xysaprella.co.uk
 mailer.xysaprelle.co.uk
 mailer.y211.com
 mailer.yachtsorknot.com
+mailer.yachtsorknots.com
 mailer.yantiar.com
 mailer.yanut.net
 mailer.yaraneura.co.uk
@@ -17085,6 +17086,7 @@ xysaprella.co.uk
 xysaprelle.co.uk
 y211.com
 yachtsorknot.com
+yachtsorknots.com
 yantiar.com
 yanut.net
 yaraneura.co.uk
