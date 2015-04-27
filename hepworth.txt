@@ -3868,6 +3868,7 @@ jasonmccord.org
 javasources.net
 javheypenvine.com
 javieros.co.uk
+javspree.com
 jaysphotostudio.com
 jecomux.com
 jedcamode.co.uk
@@ -8697,6 +8698,7 @@ mailer.jasonmccord.org
 mailer.javasources.net
 mailer.javheypenvine.com
 mailer.javieros.co.uk
+mailer.javspree.com
 mailer.jaysphotostudio.com
 mailer.jecomux.com
 mailer.jedcamode.co.uk
