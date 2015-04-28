@@ -12818,6 +12818,7 @@ mailer.waterfalloptions.com
 mailer.waterlsl.com
 mailer.watersongreads.com
 mailer.wave-blaze.com
+mailer.wavelengthdesigns.net
 mailer.waxormex.com
 mailer.wbden.com
 mailer.weaclaith.com
@@ -16714,6 +16715,7 @@ waterfalloptions.com
 waterlsl.com
 watersongreads.com
 wave-blaze.com
+wavelengthdesigns.net
 waxormex.com
 wbden.com
 weaclaith.com
