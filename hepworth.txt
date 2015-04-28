@@ -411,6 +411,7 @@ applefeather.com
 applefinger.com
 appmakerz.com
 apprenticoeship.com
+appsaga.net
 appsgag.com
 appspacket.com
 appstorebackdoor.com
@@ -5242,6 +5243,7 @@ mailer.applefeather.com
 mailer.applefinger.com
 mailer.appmakerz.com
 mailer.apprenticoeship.com
+mailer.appsaga.net
 mailer.appsgag.com
 mailer.appspacket.com
 mailer.appstorebackdoor.com
