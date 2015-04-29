@@ -3643,6 +3643,7 @@ imicampaign.com
 iminmyelement.com
 immediateness.com
 imogedbusy.com
+impactpointtech.com
 impasugong.co.uk
 imperiusprison.com
 imprefix.com
@@ -8478,6 +8479,7 @@ mailer.imicampaign.com
 mailer.iminmyelement.com
 mailer.immediateness.com
 mailer.imogedbusy.com
+mailer.impactpointtech.com
 mailer.impasugong.co.uk
 mailer.imperiusprison.com
 mailer.imprefix.com
@@ -11925,6 +11927,7 @@ mailer.synergonomics.com
 mailer.synergy-rs.com
 mailer.synthwork.co
 mailer.sysadminpit.com
+mailer.tabrief.com
 mailer.tacocathost.com
 mailer.tafelloper.com
 mailer.tafelloper.comt
@@ -15823,6 +15826,7 @@ synergonomics.com
 synergy-rs.com
 synthwork.co
 sysadminpit.com
+tabrief.com
 tacocathost.com
 tafelloper.com
 tafelloper.comt
