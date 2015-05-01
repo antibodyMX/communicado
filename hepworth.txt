@@ -12770,6 +12770,7 @@ mailer.vodkabrands.org
 mailer.voforums.com
 mailer.voltg.com
 mailer.voneventsplanning.com
+mailer.vorwahl.co
 mailer.votalhost.org
 mailer.voutafsa.co.uk
 mailer.voutocap.co.uk
@@ -16673,6 +16674,7 @@ vodkabrands.org
 voforums.com
 voltg.com
 voneventsplanning.com
+vorwahl.co
 votalhost.org
 voutafsa.co.uk
 voutocap.co.uk
