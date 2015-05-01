@@ -56,6 +56,7 @@ abrefsvs.com
 absoluteprogress.com
 abucaynor.co.uk
 abulugra.co.uk
+abundantlyso.org
 abuyognes.co.uk
 acaciaroses.com
 academicadvanced.com
@@ -4895,6 +4896,7 @@ mailer.abrefsvs.com
 mailer.absoluteprogress.com
 mailer.abucaynor.co.uk
 mailer.abulugra.co.uk
+mailer.abundantlyso.org
 mailer.abuyognes.co.uk
 mailer.acaciaroses.com
 mailer.academicadvanced.com
@@ -11868,6 +11870,7 @@ mailer.stridecounseling.com
 mailer.stuckonstickers.co.uk
 mailer.studentloansuk.net
 mailer.studio18lisburn.com
+mailer.studioward.net
 mailer.stuffeight.com
 mailer.stuzigooting.co.uk
 mailer.styleexpression.com
@@ -15773,6 +15776,7 @@ stridecounseling.com
 stuckonstickers.co.uk
 studentloansuk.net
 studio18lisburn.com
+studioward.net
 stuffeight.com
 stuzigooting.co.uk
 styleexpression.com
