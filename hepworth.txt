@@ -11727,6 +11727,7 @@ mailer.skinnyreader.com
 mailer.sknowbst.com
 mailer.skrajna.com
 mailer.skylanderscodes.com
+mailer.slacka.net
 mailer.slashzone.net
 mailer.slimnogymreviews.org
 mailer.sliraguela.co.uk
@@ -15631,6 +15632,7 @@ skinnyreader.com
 sknowbst.com
 skrajna.com
 skylanderscodes.com
+slacka.net
 slashzone.net
 slimnogymreviews.org
 sliraguela.co.uk
