@@ -13074,6 +13074,7 @@ mailer.xaviersamuel.org
 mailer.xazonal.com
 mailer.xbaru.com
 mailer.xbtmarket.org
+mailer.xdriftr.co
 mailer.xemgame.org
 mailer.xeneverse.com
 mailer.xertivead.com
@@ -16984,6 +16985,7 @@ xaviersamuel.org
 xazonal.com
 xbaru.com
 xbtmarket.org
+xdriftr.co
 xemgame.org
 xeneverse.com
 xertivead.com
