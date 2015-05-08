@@ -12214,6 +12214,7 @@ mailer.tedfon.com
 mailer.teitter.co
 mailer.tekcampaign.com
 mailer.tekforums.org
+mailer.telechargerword.com
 mailer.telecomtrio.com
 mailer.telegrant.com
 mailer.telemilt.com
@@ -16211,6 +16212,7 @@ tedfon.com
 teitter.co
 tekcampaign.com
 tekforums.org
+telechargerword.com
 telecomtrio.com
 telegrant.com
 telemilt.com
