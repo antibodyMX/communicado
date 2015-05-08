@@ -11719,6 +11719,7 @@ mailer.sashagreyweb.com
 mailer.sastamedia.com
 mailer.sastiticktes.com
 mailer.satellitetvonline.org
+mailer.satoshipot.com
 mailer.savanhk.com
 mailer.savvoyes.com
 mailer.scarletcrystal.com
@@ -12916,6 +12917,7 @@ mailer.viralrugby.com
 mailer.virtuousmind.com
 mailer.virtuouswriting.com
 mailer.visavisthesalonh.com
+mailer.visionfuss.com
 mailer.vitafortis.net
 mailer.vitamindress.com
 mailer.vitanx.com
@@ -15714,6 +15716,7 @@ sashagreyweb.com
 sastamedia.com
 sastiticktes.com
 satellitetvonline.org
+satoshipot.com
 savanhk.com
 savvoyes.com
 scarletcrystal.com
@@ -16911,6 +16914,7 @@ viralrugby.com
 virtuousmind.com
 virtuouswriting.com
 visavisthesalonh.com
+visionfuss.com
 vitafortis.net
 vitamindress.com
 vitanx.com
