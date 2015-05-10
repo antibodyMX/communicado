@@ -3552,6 +3552,7 @@ hurvabne.co.uk
 hurvinghe.co.uk
 hurvynge.co.uk
 huxo.net
+hyperanime.com
 hypnosisall.com
 iabaduntive.co.uk
 iabaguntive.co.uk
@@ -8455,6 +8456,7 @@ mailer.hurvabne.co.uk
 mailer.hurvinghe.co.uk
 mailer.hurvynge.co.uk
 mailer.huxo.net
+mailer.hyperanime.com
 mailer.hypnosisall.com
 mailer.iabaduntive.co.uk
 mailer.iabaguntive.co.uk
