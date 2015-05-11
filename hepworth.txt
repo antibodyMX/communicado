@@ -1875,6 +1875,7 @@ delwarevinge.co.uk
 delwariartenge.co.uk
 delwarownelste.co.uk
 delwarupete.co.uk
+demandard.com
 demendus.com
 demiphotos.net
 demoforex.org
@@ -6779,6 +6780,7 @@ mailer.delwarevinge.co.uk
 mailer.delwariartenge.co.uk
 mailer.delwarownelste.co.uk
 mailer.delwarupete.co.uk
+mailer.demandard.com
 mailer.demendus.com
 mailer.demiphotos.net
 mailer.demoforex.org
@@ -11253,6 +11255,7 @@ mailer.precorachap.co.uk
 mailer.precorachar.co.uk
 mailer.premiumeconomy.org
 mailer.premiumlandings.com
+mailer.preordervg.com
 mailer.prepahosting.com
 mailer.preperationmastery.com
 mailer.preppedcapital.com
@@ -15254,6 +15257,7 @@ precorachap.co.uk
 precorachar.co.uk
 premiumeconomy.org
 premiumlandings.com
+preordervg.com
 prepahosting.com
 preperationmastery.com
 preppedcapital.com
