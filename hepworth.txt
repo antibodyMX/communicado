@@ -1889,6 +1889,7 @@ derohuie.co.uk
 derombeie.co.uk
 deropolpe.co.uk
 derprealm.com
+designalma.com
 designingworld.org
 destinationselite.com
 destinyrings.com
@@ -6794,6 +6795,7 @@ mailer.derohuie.co.uk
 mailer.derombeie.co.uk
 mailer.deropolpe.co.uk
 mailer.derprealm.com
+mailer.designalma.com
 mailer.designingworld.org
 mailer.destinationselite.com
 mailer.destinyrings.com
