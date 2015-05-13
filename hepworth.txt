@@ -1614,6 +1614,7 @@ crackednoggin.org
 crackstudios.net
 craftedcloud.com
 crazydrama.org
+crazylifecooking.com
 createproductnitro.com
 creation-mc.com
 creationsmojo.com
@@ -6527,6 +6528,7 @@ mailer.crackednoggin.org
 mailer.crackstudios.net
 mailer.craftedcloud.com
 mailer.crazydrama.org
+mailer.crazylifecooking.com
 mailer.createproductnitro.com
 mailer.creation-mc.com
 mailer.creationsmojo.com
