@@ -2998,6 +2998,7 @@ gildedmemories.com
 gildedvacations.com
 gimpygoof.com
 ginatilana.co.uk
+gingerfizz.co
 gingooglos.co.uk
 ginkgobonsai.com
 giocaevinci.net
@@ -7910,6 +7911,7 @@ mailer.gildedmemories.com
 mailer.gildedvacations.com
 mailer.gimpygoof.com
 mailer.ginatilana.co.uk
+mailer.gingerfizz.co
 mailer.gingooglos.co.uk
 mailer.ginkgobonsai.com
 mailer.giocaevinci.net
@@ -12307,6 +12309,7 @@ mailer.thatsfitreviews.com
 mailer.theactionallegiance.com
 mailer.theamundsen.com
 mailer.theatriol.com
+mailer.thebeeressential.com
 mailer.thebestfxbroker.com
 mailer.thebeststudiomonitors.org
 mailer.thebestwsos.com
@@ -12403,6 +12406,7 @@ mailer.topresults.co
 mailer.topresultspromos.com
 mailer.topreviews.co
 mailer.topseriale.net
+mailer.toptenyoutube.com
 mailer.tornadoinoklahoma.com
 mailer.toruswheel.com
 mailer.totalassociates.com
@@ -16318,6 +16322,7 @@ thatsfitreviews.com
 theactionallegiance.com
 theamundsen.com
 theatriol.com
+thebeeressential.com
 thebestfxbroker.com
 thebeststudiomonitors.org
 thebestwsos.com
@@ -16414,6 +16419,7 @@ topresults.co
 topresultspromos.com
 topreviews.co
 topseriale.net
+toptenyoutube.com
 tornadoinoklahoma.com
 toruswheel.com
 totalassociates.com
