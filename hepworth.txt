@@ -13265,6 +13265,7 @@ mailer.woodworkingtrek.com
 mailer.wordpresswebsitesale.com
 mailer.wordtender.com
 mailer.wordtender.net
+mailer.wordtender.org
 mailer.workandsuccessful.com
 mailer.workbenchtop.com
 mailer.worklate.net
@@ -17280,6 +17281,7 @@ woodworkingtrek.com
 wordpresswebsitesale.com
 wordtender.com
 wordtender.net
+wordtender.org
 workandsuccessful.com
 workbenchtop.com
 worklate.net
