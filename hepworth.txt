@@ -2045,6 +2045,7 @@ docseas.com
 docsengine.net
 doctypist.com
 dokar.me
+dollarpounds.com
 dollarpounds.org
 dolorese.co.uk
 doltoin.com
@@ -6963,6 +6964,7 @@ mailer.docseas.com
 mailer.docsengine.net
 mailer.doctypist.com
 mailer.dokar.me
+mailer.dollarpounds.com
 mailer.dollarpounds.org
 mailer.dolorese.co.uk
 mailer.doltoin.com
