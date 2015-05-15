@@ -1793,6 +1793,7 @@ dangcagaa.co.uk
 danglaste.co.uk
 daniel-bruhl.org
 danielle-bradbery.org
+danmagnus.co
 daosimana.co.uk
 dapaniesa.co.uk
 dapitanto.co.uk
@@ -6709,6 +6710,7 @@ mailer.dangcagaa.co.uk
 mailer.danglaste.co.uk
 mailer.daniel-bruhl.org
 mailer.danielle-bradbery.org
+mailer.danmagnus.co
 mailer.daosimana.co.uk
 mailer.dapaniesa.co.uk
 mailer.dapitanto.co.uk
