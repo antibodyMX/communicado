@@ -3294,6 +3294,7 @@ halobc.com
 halomaxresources.com
 halston-sage.com
 haltatx.net
+hamdergisi.com
 hamstar.org
 hamticeros.co.uk
 hamtraders.net
@@ -8213,6 +8214,7 @@ mailer.halobc.com
 mailer.halomaxresources.com
 mailer.halston-sage.com
 mailer.haltatx.net
+mailer.hamdergisi.com
 mailer.hamstar.org
 mailer.hamticeros.co.uk
 mailer.hamtraders.net
