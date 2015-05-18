@@ -1491,6 +1491,7 @@ ciidudt.com
 cindycap.com
 cinnamonsdesign.com
 cissymagazine.com
+citigyo.com
 citizensatovi.com
 citrescon.co.uk
 civilrefinement.com
@@ -3466,6 +3467,7 @@ hiriasinqui.co.uk
 hiriasinquo.co.uk
 historyofprivacy.net
 hitboxtools.com
+hitleapvps.com
 hittaledigajobb.com
 hittamotell.com
 hivemail.org
@@ -6413,6 +6415,7 @@ mailer.ciidudt.com
 mailer.cindycap.com
 mailer.cinnamonsdesign.com
 mailer.cissymagazine.com
+mailer.citigyo.com
 mailer.citizensatovi.com
 mailer.citrescon.co.uk
 mailer.civilrefinement.com
@@ -8388,6 +8391,7 @@ mailer.hiriasinqui.co.uk
 mailer.hiriasinquo.co.uk
 mailer.historyofprivacy.net
 mailer.hitboxtools.com
+mailer.hitleapvps.com
 mailer.hittaledigajobb.com
 mailer.hittamotell.com
 mailer.hivemail.org
