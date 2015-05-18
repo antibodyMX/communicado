@@ -12069,6 +12069,7 @@ mailer.starpendantgold.com
 mailer.starsloaded.com
 mailer.starsofthenight.com
 mailer.starsongspk.com
+mailer.staticonly.com
 mailer.stayhereforever.com
 mailer.steadydollars.com
 mailer.steadyinv.com
@@ -16087,6 +16088,7 @@ starpendantgold.com
 starsloaded.com
 starsofthenight.com
 starsongspk.com
+staticonly.com
 stayhereforever.com
 steadydollars.com
 steadyinv.com
