@@ -2061,6 +2061,7 @@ donorsteward.com
 donsolio.co.uk
 doorll.net
 dopsclick.com
+dorbarta.com
 dotaleak.com
 dotnetaddict.com
 dotnom.ca
@@ -6982,6 +6983,7 @@ mailer.donorsteward.com
 mailer.donsolio.co.uk
 mailer.doorll.net
 mailer.dopsclick.com
+mailer.dorbarta.com
 mailer.dotaleak.com
 mailer.dotnetaddict.com
 mailer.dotnom.ca
