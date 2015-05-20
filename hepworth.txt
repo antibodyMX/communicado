@@ -1979,6 +1979,7 @@ dichorachar.co.uk
 dickermanwholesale.com
 diffunia.co.uk
 digisubject.com
+digitalfundmanager.com
 digostia.co.uk
 dijoauthority.com
 dilasage.co.uk
@@ -6904,6 +6905,7 @@ mailer.dichorachar.co.uk
 mailer.dickermanwholesale.com
 mailer.diffunia.co.uk
 mailer.digisubject.com
+mailer.digitalfundmanager.com
 mailer.digostia.co.uk
 mailer.dijoauthority.com
 mailer.dilasage.co.uk
