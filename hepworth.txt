@@ -1982,6 +1982,7 @@ diffunia.co.uk
 digisubject.com
 digitalfundmanager.com
 digostia.co.uk
+digwall.com
 dijoauthority.com
 dilasage.co.uk
 dimasala.co.uk
@@ -6910,6 +6911,7 @@ mailer.diffunia.co.uk
 mailer.digisubject.com
 mailer.digitalfundmanager.com
 mailer.digostia.co.uk
+mailer.digwall.com
 mailer.dijoauthority.com
 mailer.dilasage.co.uk
 mailer.dimasala.co.uk
