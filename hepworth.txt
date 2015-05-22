@@ -11232,6 +11232,7 @@ mailer.playwithltc.com
 mailer.playwordtopia.com
 mailer.pleotess.com
 mailer.pleviar.com
+mailer.plexrp.com
 mailer.plraudioclips.net
 mailer.pluginwebinar.com
 mailer.pluginwebinars.com
@@ -15255,6 +15256,7 @@ playwithltc.com
 playwordtopia.com
 pleotess.com
 pleviar.com
+plexrp.com
 plraudioclips.net
 pluginwebinar.com
 pluginwebinars.com
