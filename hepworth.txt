@@ -12343,6 +12343,7 @@ mailer.tenwalte.co.uk
 mailer.tenyalse.co.uk
 mailer.tenzalve.co.uk
 mailer.terapianatural.net
+mailer.termand.com
 mailer.termcounselor.com
 mailer.terrahorn.org
 mailer.terrao.net
@@ -16372,6 +16373,7 @@ tenwalte.co.uk
 tenyalse.co.uk
 tenzalve.co.uk
 terapianatural.net
+termand.com
 termcounselor.com
 terrahorn.org
 terrao.net
