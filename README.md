@@ -52,6 +52,18 @@ Add the following line at an appropriate place in your configuration file:
     smtpd_sender_restrictions =  reject_rhsbl_sender excommunicado.co.uk
 
 
+Spamassassin
+============
+
+Add the following to your spamassassin rules, commonly located in /etc/spamassassin/local.cf:
+
+    header   RCVD_IN_ECBL          eval:check_rbl_envfrom('excommunicado', 'excommunicado.co.uk.')
+    describe RCVD_IN_ECBL          Communicado Ltd., see http://blog.hinterlands.org/2013/10/unwanted-email-from-communicado-ltd/
+    tflags   RCVD_IN_ECBL          net
+    score    RCVD_IN_ECBL          5.1 
+
+
+
 Setting up your own DNSBL
 =========================
 
